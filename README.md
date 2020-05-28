@@ -1,3 +1,3 @@
-# lxg1992.github.io
-GitHub Pages Initial
+# GitHub Pages Initial
+lxg1992.github.io
 
